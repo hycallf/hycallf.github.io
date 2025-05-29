@@ -1,0 +1,116 @@
+{
+  "personalInfo": {
+    "name": "M Haikal Fuady",
+    "title": "Web developer",
+    "avatar": "./assets/images/my-avatar-2.png",
+    "contacts": {
+      "address": "Jl. Swadaya 3, Kel.Jatiranggon, Kec.Jatisampurna, Kota Bekasi",
+      "email": "muhammadhaikalfuady@gmail.com",
+      "personalInterest": "Technologia",
+      "mobileNumber": "+6281319476815"
+    },
+    "resumeUrl": "./assets/docs/CV_ATS_HAIKAL.pdf",
+    "social": [
+      {
+        "name": "Github",
+        "url": "https://github.com/hycallf",
+        "icon": "logo-github"
+      },
+      {
+        "name": "Twitter",
+        "url": "#",
+        "icon": "logo-twitter"
+      },
+      {
+        "name": "Instagram",
+        "url": "https://instagram.com/hycallf_24",
+        "icon": "logo-instagram"
+      }
+    ],
+    "about": [
+      "A lifelong learner with a CS degree, I'm driven by the everevolving tech landscape. My strong foundation in computer science fuels my analytical skills, while continuous learning keeps me at the forefront of innovation. I'm eager to apply my knowledge and passion to create impactful tech solutions."
+    ]
+  },
+
+  "services": [
+    {
+      "icon": "./assets/images/icon-design.svg",
+      "title": "Web design",
+      "description": "The most modern and high-quality design made at a professional level."
+    },
+    {
+      "icon": "./assets/images/icon-dev.svg",
+      "title": "Web development",
+      "description": "High-quality development of sites at the professional level."
+    },
+    {
+      "icon": "./assets/images/icon-app.svg",
+      "title": "Mobile apps",
+      "description": "Standard development of applications for iOS and Android."
+    },
+    {
+      "icon": "./assets/images/icon-photo.svg",
+      "title": "Graphic Design",
+      "description": "I make high-quality designs for any type of company."
+    }
+  ],
+
+  "resume": {
+    "education": [
+      {
+        "school": "Vocational School 4 Bekasi",
+        "major": "Computer and Network Engineering",
+        "years": "2017-2019"
+      },
+      {
+        "school": "University of Ary Ginanjar",
+        "major": "Computer Science",
+        "years": "2020-2024",
+        "gpa": "3.6"
+      },
+      {
+        "school": "Bangkit Academy led By Google, GoTo, Traveloka",
+        "major": "Cloud Computing",
+        "years": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "position": "IT Staff",
+        "company": "Universitas Mercu Buana",
+        "years": "2017-2018",
+        "description": "Ensuring that the facilities and infrastructure for campus tools can be used properly, and also carry out maintenance of the campus network."
+      },
+      {
+        "position": "IT Support & Web Developer",
+        "company": "PT. Mitra Intimarga",
+        "years": "2019-2020",
+        "description": "IT Support, create content to publish on the company and other link company's website using CMS WordPress, Create Web Application using native PHP, and also help maintain the network in the office."
+      },
+      {
+        "position": "Laravel Freelance Web Developer",
+        "company": "TOMO Pondok Mahkota Motor",
+        "years": "2024",
+        "description": "Create feature For Admin, User, Worker, and Administrator, Make sure announce system can be used properly via Email & Whatsapp (regist, progress, invoice, payment, finish services, etc.)"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web developing",
+        "level": 80
+      },
+      {
+        "name": "Graphic design",
+        "level": 70
+      },
+      {
+        "name": "Office tools",
+        "level": 90
+      },
+      {
+        "name": "Mobile app developing",
+        "level": 60
+      }
+    ]
+  }
+}
