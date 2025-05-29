@@ -7,7 +7,7 @@
       "technologies": ["Java Swing", "MySQL", "OOP"],
       "role": ["Team Leader", "Developer", "Asset builder"],
       "type": "Games",
-      "thumb": "Rage2Wars.png",
+      "thumb": "Rage2wars.png",
       "gallery":["About.png","tutz1.png", "tutz2.png", "tutz3.png", "gachaBanner.png"],
       "source": "https://github.com/hycallf/Rage2WarsGame",
       "longDescription": "<p>Rage2wars is a card-based game inspired by the Japanese suit system. Each player has 4 cards in hand and 20 cards in total in the deck. Each card is assigned an attribute (rock, paper, or scissors) and has both attack and defense points. When a card is played, it is matched against the opponent's card following the rules of rock-paper-scissors. If the player wins the round, the enemy takes damage equal to the difference between the player's attack and the enemy's defense. If the round ends in a draw or loss, the played card is destroyed and sent to the graveyard, and a new card is drawn from the deck.</p><p>The game ends when a player’s life points (LP) are reduced to zero or when their deck is depleted. Upon winning, players are rewarded with gold and experience points (EXP). Gems are granted when the experience bar is full and the player levels up. Gold is used for standard gacha, while diamonds are used for premium gacha pulls.</p>"
